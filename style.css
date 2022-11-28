@@ -15,7 +15,7 @@ header{
 }
 
 nav ul{
- display: inline-block;
+ display: inline;
  vertical-align: top;
  padding: 2%;
  font-size: 25px;
