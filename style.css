@@ -9,6 +9,14 @@ h1 {
 #logo{
     width: 20%;
 }
+
 header{
      background-color:#017D86;
+}
+
+nav ul{
+ display: inline-block;
+ vertical-align: top;
+ padding: 2%;
+ font-size: 25px;
 }
