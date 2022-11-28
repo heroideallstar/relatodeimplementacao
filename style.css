@@ -1,0 +1,108 @@
+body {
+    background-color:#1f1f1f;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: left;
+}
+
+#logo{
+    width: 20%;
+}
+
+header{
+  background-color: black;
+}
+
+nav{
+  position: absolute;
+  top:110px;
+  right: 10%;
+}
+
+nav li{
+  font-size: 30px;
+  display: flex;
+  margin-right: 5%;
+}
+
+nav ul{
+  display: flex;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+  position: relative;
+  cursor: pointer;
+}
+
+/**Design externo -----------------------------------------------------------**/
+/**Disp. em:https://www.loopnerd.com.br/artigos/css3/link-html-css-animado/**/
+.link-linha::after {
+  content: " ";
+  position: absolute;
+  top: 100%;
+  left: 25%;
+  width: 50%;
+  height: 1px;
+  font-weight: bold;
+  border-bottom: 1px solid #ff004d;
+  transition: 0.4s;
+}
+
+.link-linha:hover::after {
+  width: 100%;
+  left: 0;
+  color: #ff004d;
+}
+
+.link-linha:hover {
+  color: #ff004d;
+  transition: 0.4s;
+}
+/**-------------------------------------------------------------------------**/
+
+.itens {
+	color:  black;
+	text-decoration: underline;
+  display: block;
+}
+h2{
+  font-size: 30px;
+  color: #ff004d;
+  margin:5%;
+}
+#sobre {
+    width: 12%;
+    float: left;
+    margin-left:5%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+p{
+  color: white;
+  text-align: justify;
+  margin-left:5%;
+  margin-right:5%;
+  margin-top: 1%;
+}
+
+h3{
+  font-size: 15px;
+  color: #ff004d;
+}
+
+.lista{
+  margin-left:5%;
+  margin-right:5%;
+  margin-top: 2%;
+  color: white;
+}
+
+.itens{
+  color: white;
+  margin-top: 1%;
+  text-decoration: none;
+}
