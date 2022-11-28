@@ -13,10 +13,3 @@ h1 {
 header{
      background-color:#017D86;
 }
-
-nav ul{
- display: block;
- vertical-align: top;
- padding: 2%;
- font-size: 25px;
-}
