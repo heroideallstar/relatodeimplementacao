@@ -85,7 +85,8 @@ p{
 }
 
 #escola{
-  float: center;
+  width: 20%
+  float: right;
   margin-left:5%;
   margin-right:5%;
   margin-top: 2%;
