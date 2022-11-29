@@ -67,3 +67,10 @@ h2{
   color: #017D86;
   margin:10%;
 }
+p{
+  color: white;
+  text-align: justify;
+  margin-left:5%;
+  margin-right:5%;
+  margin-top: 1%;
+}
