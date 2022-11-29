@@ -69,7 +69,7 @@ h2{
 
 p{
   font-size: 15px;
-  color: white;
+  color: black;
   text-align: justify;
   margin:2%;
 }
@@ -78,5 +78,5 @@ p{
   margin-left:5%;
   margin-right:5%;
   margin-top: 2%;
-  color: white;
+  color: black;
 }
