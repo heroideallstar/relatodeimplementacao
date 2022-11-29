@@ -46,17 +46,17 @@ nav li a:hover {
   width: 50%;
   height: 1px;
   font-weight: bold;
-  border-bottom: 1px solid #ff004d;
+  border-bottom: 1px solid black;
   transition: 0.4s;
 }
 
 .link-linha:hover::after {
   width: 100%;
   left: 0;
-  color: #ff004d;
+  color: black;
 }
 
 .link-linha:hover {
-  color: #ff004d;
+  color: black;
   transition: 0.4s;
 }
