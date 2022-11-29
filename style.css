@@ -4,7 +4,7 @@ body {
 
 h1 {
     text-align: left;
-    padding:5%;    
+    margin:5%;    
 }
 
 #logo{
@@ -63,9 +63,9 @@ nav li a:hover {
 }
 
 h2{
-  font-size: 50px;
+  font-size: 15px;
   color: #017D86;
-  margin:10%;
+  margin:5%;
 }
 p{
   color: white;
