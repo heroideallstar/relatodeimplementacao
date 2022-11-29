@@ -68,11 +68,8 @@ h2{
 }
 
 p{
-  font-size: 10px;
+  font-size: 15px;
   color: white;
   text-align: justify;
-  margin-left:10%;
-  margin-right:10%;
-  margin-top: 2%;
-  padding: 5%;
+  margin:2%;
 }
