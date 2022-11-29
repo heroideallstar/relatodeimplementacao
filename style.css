@@ -47,7 +47,6 @@ nav li a:hover {
   width: 50%;
   height: 1px;
   font-weight: bold;
-  border-bottom: 1px solid black;
   transition: 0.4s;
 }
 
