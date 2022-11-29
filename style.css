@@ -64,18 +64,16 @@ nav li a:hover {
 h2{
   font-size: 20px;
   color: #017D86;
-  margin:2%;
 }
 
 p{
   font-size: 15px;
   color: black;
   text-align: justify;
-  margin:2%;
 }
 
 .relato{
-  margin-left:10%;
+  margin-left:5%;
   margin-right:5%;
   margin-top: 2%;
   color: black;
