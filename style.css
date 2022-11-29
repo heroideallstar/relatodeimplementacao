@@ -34,7 +34,29 @@ nav li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 nav li a:hover {
   background-color: #017D86;
+}
+
+.link-linha::after {
+  content: " ";
+  position: absolute;
+  top: 100%;
+  left: 25%;
+  width: 50%;
+  height: 1px;
+  font-weight: bold;
+  border-bottom: 1px solid #ff004d;
+  transition: 0.4s;
+}
+
+.link-linha:hover::after {
+  width: 100%;
+  left: 0;
+  color: #ff004d;
+}
+
+.link-linha:hover {
+  color: #ff004d;
+  transition: 0.4s;
 }
