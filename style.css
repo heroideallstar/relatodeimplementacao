@@ -113,3 +113,8 @@ p{
  color: #017D86;
  text-decoration: none;
 }
+
+.resultado a:visited {
+ color: #64b0b4;
+ text-decoration:none;
+}
