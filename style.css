@@ -117,3 +117,21 @@ p{
 .resultado a:visited {
  color: #2d2d2d;
 }
+
+.galery {
+    width: 640px;
+    height: 360px;
+    background-color: black;
+    overflow: hidden;
+}
+
+.galery .fotos {
+    width: 500%;
+    animation-name: animacao;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+
+.galery .fotos img {
+    width: 19.9%;
+}
