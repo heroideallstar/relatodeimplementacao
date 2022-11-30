@@ -119,8 +119,8 @@ p{
 }
 
 .galery {
-    width: 640px;
-    height: 360px;
+    width: 480px;
+    height: 640px;
     background-color: black;
     overflow: hidden;
 }
