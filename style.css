@@ -4,7 +4,7 @@ body {
 
 h1 {
     text-align: left;
-    pading:5%;    
+    pading:5%;
 }
 
 #logo{
@@ -65,10 +65,11 @@ h2{
   font-size: 20px;
   color: #017D86;
   margin-bottom:2%;
+  margin-top:2%;
 }
 
 b{
- color: #017D86;  
+ color: #017D86;
 }
 
 p{
@@ -99,7 +100,7 @@ p{
   margin-right:5%;
   margin-top: 2%;
   pading:2%;
-  color: black; 
+  color: black;
   text-decoration: none;
 }
 
@@ -119,6 +120,10 @@ p{
 }
 
 .galery {
+    float:left;
+    margin-left:5%;
+    margin-top: 2%;
+    margin-right: 2%;
     width: 478px;
     height: 478px;
     background-color: #D0E9ED;
@@ -134,4 +139,40 @@ p{
 
 .galery .fotos img {
     width: 19.9%;
+}
+
+.fotosite{
+  width: 20%;
+  float:right;
+  margin-left:5%;
+  margin-right:5%;
+  margin-top: 2%;
+  border: 5px solid #017D86;
+}
+
+.fotosite2{
+  width: 20%;
+  float:right;
+  margin-left:5%;
+  margin-right:5%;
+  margin-top: 2%;
+  border: 5px solid #017D86;
+}
+
+iframe{
+  width: 50%;
+  float:right;
+  margin-top: 2%;
+}
+
+.objetivoss{
+  margin-left:5%;
+  margin-top: 2%;
+  color: black;
+}
+
+.texto2{
+  margin-right: 5%;
+  margin-top: 2%;
+  color: black;
 }
