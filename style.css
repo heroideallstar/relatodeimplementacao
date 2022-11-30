@@ -181,3 +181,12 @@ iframe{
  color: black;
  text-decoration: none;
 }
+
+.reflexao a:hover {
+ color: #017D86;
+ text-decoration: none;
+}
+
+.reflexao a:visited {
+ color: #2d2d2d;
+}
