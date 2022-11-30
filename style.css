@@ -126,12 +126,12 @@ p{
 }
 
 .galery .fotos {
-    width: 500%;
+    width: 1000%;
     animation-name: animacao;
     animation-duration: 20s;
     animation-iteration-count: infinite;
 }
 
 .galery .fotos img {
-    width: 19.9%;
+    width: 9.9%;
 }
