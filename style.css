@@ -108,22 +108,17 @@ p{
 }*/
 
 .resultado a:link {
- background: #B1B1B1;
+ background: #017D86;
  color: #FFF;
  text-decoration: none;
- font-weight: bold;
  border-width: 4px;
  border-style: solid;
- border-top-color: #DFDFDF;
- border-right-color: #666;
- border-bottom-color: #333;
- border-left-color: #858585;
+ border-color: #017D86;
 
 }
 
 .resultado a:hover {
- background: #B1B1B1;
+ background: #017D86;
  color: #FFF;
- font-weight: bold;
- border-color: #B1B1B1;
+ border-color: #017D86;
 }*/
