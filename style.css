@@ -109,8 +109,7 @@ p{
 }*/
 
 .resultado a:link {
- background: #017D86;
- color: #FFF;
+ color: black;
  text-decoration: none;
  border-width: 4px;
  border-style: solid;
@@ -119,7 +118,6 @@ p{
 }
 
 .resultado a:hover {
- background: #017D86;
- color: #FFF;
+ color: #017D86;
  border-color: #017D86;
 }*/
