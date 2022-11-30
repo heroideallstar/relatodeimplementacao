@@ -111,13 +111,9 @@ p{
 .resultado a:link {
  color: black;
  text-decoration: none;
- border-width: 4px;
- border-style: solid;
- border-color: #017D86;
 
 }
 
 .resultado a:hover {
  color: #017D86;
- border-color: #017D86;
-}*/
+}
