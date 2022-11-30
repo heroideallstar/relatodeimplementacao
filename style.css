@@ -102,12 +102,12 @@ p{
   text-decoration: none;
 }
 
-/*a{
+a{
     text-decoration: none;
     color: black;
-}*/
+}
 
-a:link {
+/*a:link {
  background: #B1B1B1;
  color: #FFF;
  text-decoration: none;
@@ -126,4 +126,4 @@ a:hover {
  color: #FFF;
  font-weight: bold;
  border-color: #B1B1B1;
-}
+}*/
