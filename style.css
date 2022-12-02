@@ -191,3 +191,28 @@ iframe{
 .reflexao a:visited {
  color: #2d2d2d;
 }
+
+p:first-letter{
+  font-size: 40px;
+}
+
+.mol:before{
+  content:"⚛️";
+  font-size: 20px;
+}
+.ham:before{
+  content:"🍔";
+  font-size: 20px;
+}
+.lan:before{
+  content:"🌭";
+  font-size: 20px;
+}
+.girl:before{
+  content:"👧";
+  font-size: 20px;
+}
+.boy:before{
+  content:"👦";
+  font-size: 20px;
+}
