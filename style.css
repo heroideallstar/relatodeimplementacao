@@ -1,11 +1,10 @@
-font-family: 'Raleway', sans-serif;
 body {
     background-color:#D0E9ED;
 }
 
 h1 {
     text-align: left;
-    pading:5%;
+    padding:5%;
 }
 
 #logo{
@@ -100,7 +99,7 @@ p{
   margin-left:5%;
   margin-right:5%;
   margin-top: 2%;
-  pading:2%;
+  padding:2%;
   color: black;
   text-decoration: none;
 }
