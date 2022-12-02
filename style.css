@@ -191,7 +191,7 @@ iframe{
  color: #2d2d2d;
 }
 
-.reflexao:first-letter{
+.reflexao p:first-letter{
   font-size: 40px;
 }
 
